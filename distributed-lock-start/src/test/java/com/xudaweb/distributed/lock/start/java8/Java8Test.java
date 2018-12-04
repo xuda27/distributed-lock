@@ -17,7 +17,6 @@ public class Java8Test {
      * (parameters) ->{ statements; }
      *
      */
-
     public static void main(String args[]){
 
         List<String> names1 = new ArrayList<String>();
